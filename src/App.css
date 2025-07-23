@@ -1,0 +1,35 @@
+.words{
+    position: relative;
+    max-width: 400px;
+ 
+    margin: auto;
+    padding: 1rem;
+    
+
+}
+
+.result{
+   
+    color: rgb(2, 16, 28);
+    font-size: medium;
+
+  
+}
+.correct{
+    color: #000;
+    font-size: large;
+    
+}
+.mains{
+    position: relative;
+    overflow-y: auto;
+}
+.data{
+    position: absolute;
+    top:1rem;
+    right: 2rem;
+    color: red;
+    font-size: 2rem;
+    
+
+}
